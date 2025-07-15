@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: Bryan's Little Site
+description: My little website for posting the things.
+author: Bryan Heinz
