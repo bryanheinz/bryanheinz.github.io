@@ -2,7 +2,7 @@
 
 Hello @ World
 
-simple shell code
+simple shell code `printf "hello, friend` (in-line)
 
 ```shell
 echo "hello world"
